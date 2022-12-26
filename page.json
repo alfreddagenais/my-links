@@ -1,57 +1,47 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Alfred Dagenais",
+  "description": "I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Dancer!",
+  "image_url": "https://raw.githubusercontent.com/alfreddagenais/my-links/main/profile-picture.jpeg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/alfreddagenais/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/alfreddagenais/",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/ProgrammeurWeb",
       "icon": "twitter"
     },
     {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
+      "url": "https://buymeacoffee.com/AlfredDagenais",
       "icon": "mug"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://instagram.com/alfreddagenaisweb",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
       "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
+      "url": "https://www.kilukru.dev/",
       "icon": "link"
     },
     {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
+      "title": "Web Site",
+      "url": "https://www.alfreddagenais.com/",
       "icon": "click"
     },
     {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
+      "title": "Paypal",
+      "url": "https://paypal.me/AlfredDagenais",
+      "icon": "shopping-cart"
     }
   ]
 }
