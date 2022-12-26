@@ -1,10 +1,19 @@
+::-moz-selection {
+  color: #f4f4f4;
+  background: #f36e1c;
+}
+
+::selection{
+  color: #f4f4f4;
+  background: #f36e1c;
+}
 
 .ld-custom-name {
-    color: black;
+    color: #f4f4f4;
 }
 
 .ld-custom-name:visited {
-    color: black;
+    color: #f4f4f4;
 }
 
 .ld-custom-button-container {
@@ -17,8 +26,8 @@
     -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    background-color: #2665d6;
-    color: #fff;
+    background-color: #f36e1c;
+    color: #1d1d1d;
 }
 
 .ld-custom-button-container:hover {
@@ -37,5 +46,13 @@
 }
 
 .ld-custom-background-layer {
-    background-color: #fff;
+    background-attachment: fixed;
+    background-color: var(#303235);
+    background-color: -webkit-gradient(linear,left top,right top,from(#1d1d1d),color-stop(50%,#323030),to(#1d1d1d));
+    background-color: -webkit-linear-gradient(left,#1d1d1d,#323030 50%,#1d1d1d);
+    background-color: linear-gradient(90deg,#1d1d1d,#323030 50%,#1d1d1d);
+    background-image: url(https://raw.githubusercontent.com/alfreddagenais/my-links/main/banner-orange.webp);
+    background-position: 87% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
